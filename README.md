@@ -12,7 +12,7 @@ This project applies unsupervised machine learning to segment customers based on
 -Scikit-learn (for clustering)
 
 
-#Key Features
+# Key Features
 -Loaded and explored mall customer dataset.
 
 -Applied the Elbow Method to determine the optimal number of clusters (k=5).
@@ -23,7 +23,7 @@ This project applies unsupervised machine learning to segment customers based on
 
 -Identified actionable insights for marketing and customer retention strategies.
 
-#Output
+# Output
 -Scatter plot visualizations of customer segments.
 
 -Clearly labeled clusters with meaningful groupings (e.g., high income, low spending; low income, high spending, etc.).
