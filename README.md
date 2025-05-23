@@ -2,34 +2,29 @@
 Customer Segmentation using K-Means Clustering
 This project applies unsupervised machine learning to segment customers based on their annual income and spending score. Using the K-Means Clustering algorithm, it helps businesses understand customer groups for more effective targeting and personalization.
 
-Tools & Libraries
-Python
+# Tools & Libraries
+-Python
 
-Pandas
+-Pandas
 
-Matplotlib, Seaborn (for visualization)
+-Matplotlib, Seaborn (for visualization)
 
-Scikit-learn (for clustering)
+-Scikit-learn (for clustering)
 
-Key Features
-Loaded and explored mall customer dataset.
 
-Applied the Elbow Method to determine the optimal number of clusters (k=5).
+#Key Features
+-Loaded and explored mall customer dataset.
 
-Trained a K-Means model to segment customers into 5 distinct groups.
+-Applied the Elbow Method to determine the optimal number of clusters (k=5).
 
-Visualized clusters to understand spending behaviors and customer distribution.
+-Trained a K-Means model to segment customers into 5 distinct groups.
 
-Identified actionable insights for marketing and customer retention strategies.
+-Visualized clusters to understand spending behaviors and customer distribution.
 
-Output
-Scatter plot visualizations of customer segments.
+-Identified actionable insights for marketing and customer retention strategies.
 
-Clearly labeled clusters with meaningful groupings (e.g., high income, low spending; low income, high spending, etc.).
+#Output
+-Scatter plot visualizations of customer segments.
 
-🚀 Potential Use Cases
-Personalized marketing campaigns
+-Clearly labeled clusters with meaningful groupings (e.g., high income, low spending; low income, high spending, etc.).
 
-Targeted promotions
-
-Customer value analysis
